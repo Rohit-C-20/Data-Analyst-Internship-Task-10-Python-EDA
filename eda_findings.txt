@@ -1,0 +1,3 @@
+1) Students performance scores are generally well distributed with few extreme values.
+2) IQR method helped identify outliers in math scores.
+3) Strong correlation exists between reading and writing scores.
